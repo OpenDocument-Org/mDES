@@ -1,0 +1,64 @@
+.contentLine{
+  width:calc(100vw - 20em);
+  margin:0 auto;
+  background-color: azure;
+  padding:3em;
+}
+.contentLine{
+  width:calc(100vw - 20em);
+  margin:0 auto;
+  padding:3em;
+}
+.topMeal {
+  width: 100%;
+  min-height: 5.5em;
+  border-bottom: groove 2em salmon;
+  overflow-y:auto;
+  overflow-x: hidden;
+}
+.topMeal a {
+  border-radius: 5px;
+  color: black;
+  background: none;
+  padding: 0.2em;
+  text-decoration: none;
+}
+.dev *{
+  border: solid 2px salmon;
+}
+.lefter{
+  float:left;
+}
+
+.logo.mdes{
+  float: left;
+  width: 10em;
+}
+.logo.org{
+  float: right;
+  width: 20em;
+  font-size: 0.35em;
+  text-align: center;
+}
+.logo.org a{
+  width: 100%;
+  text-align: center;
+}
+.i{
+  text-align: right;
+}
+.logo img {
+  width: 100%;
+}
+
+.headerString .subHead{
+  font-size: 1.5em;
+  width:calc(100% - 220em); 
+  background: linear-gradient(transparent 70%, #a8eaff 30%);
+}
+.title{
+  font-size: 3em;
+  float: left;
+  min-width: 15em;
+  font-weight: bolder;
+}
